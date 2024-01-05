@@ -1,9 +1,7 @@
 # MedGPTs
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 List of medical and health-themed custom GPTs. Please add your agents via a PR!
-
-[awesome]
-
-
 
 
 | Name | Description       | References (if available)
