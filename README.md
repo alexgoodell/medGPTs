@@ -1,5 +1,7 @@
-# medgpts
-List of medical and health-themed custom GPTs
+# MedGPTs
+List of medical and health-themed custom GPTs. Please add your agents via a PR!
+
+[awesome]
 
 
 
